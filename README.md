@@ -41,7 +41,7 @@ The simulation begins with copying instructions to RAM during the first 7 clock 
 ---
 
 ### How to Run:
-- Use [**Logisim**](https://sourceforge.net/projects/circuit/) to open the provided `.dig` files and run the simulation.
+- Use [**Digital**](https://github.com/hneemann/Digital) to open the provided `.dig` files and run the simulation.
 
 ---
 
