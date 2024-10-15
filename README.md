@@ -3,7 +3,7 @@
 ### Project Overview:
 This project explores the fundamental design and interaction between a CPU and RAM, simulating how they work together to execute basic programs. The focus is on illustrating key principles of computer architecture, particularly the processes involved in instruction execution at the hardware level.
 
-Built using **Logisim**, the project features a simple CPU architecture that interacts with RAM to execute instructions. Various components such as an ALU, RAM, registers, and control units are included.
+Built using **Digital**, the project features a simple CPU architecture that interacts with RAM to execute instructions. Various components such as an ALU, RAM, registers, and control units are included.
 
 ### Features:
 - **CPU Word Size:** 3 bits
@@ -16,7 +16,7 @@ Built using **Logisim**, the project features a simple CPU architecture that int
   - Register and Immediate Operations
 
 ### Circuit Components:
-The project contains a range of components designed in **Logisim**, including:
+The project contains a range of components designed in **Digital**, including:
 - **ALU (Arithmetic Logic Unit):** Handles basic arithmetic and logical operations like addition, bitwise OR, and ROL.
 - **Registers:** Hold intermediate values during execution.
 - **RAM (Random Access Memory):** Stores program instructions and data.
